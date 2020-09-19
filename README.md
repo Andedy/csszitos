@@ -1,2 +1,2 @@
 # csszitos
-css studies
+css/html studies
